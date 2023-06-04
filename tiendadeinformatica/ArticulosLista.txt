@@ -1,0 +1,10 @@
+Id: 1-001, Descripcion: RATON LOGITECH    , Existencias: 14
+Id: 1-002, Descripcion: TECLADO STANDARD  , Existencias: 9
+Id: 2-001, Descripcion: HDD SEAGATE 1TB   , Existencias: 16
+Id: 2-002, Descripcion: SSD KINGSTOM 256GB, Existencias: 9
+Id: 2-003, Descripcion: SSD KINGSTOM 512GB, Existencias: 15
+Id: 3-001, Descripcion: EPSON ET2800      , Existencias: 25
+Id: 3-002, Descripcion: EPSON XP200       , Existencias: 15
+Id: 4-001, Descripcion: ASUS LED 22       , Existencias: 25
+Id: 4-002, Descripcion: HP LED 28         , Existencias: 35
+Id: 4-003, Descripcion: SAMSUNG ODISSEY G5, Existencias: 22
